@@ -1,3 +1,4 @@
+//Laura Higueras
 /*
 let myAnimals = ["dog", "cat", "horse", "meerkat"]
 
